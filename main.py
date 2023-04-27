@@ -91,7 +91,7 @@ for i in list_txt_files:
     str = i
     l=len(str)
     remove_last = str[:l-4]
-    remove_first = remove_last[54:]
+    remove_first = remove_last[7:]
     # print(remove_first)
     # remove_last = str[:]
 
